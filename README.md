@@ -1,1 +1,1 @@
-# ejemplo1.js
+ejemplos de javascrip
